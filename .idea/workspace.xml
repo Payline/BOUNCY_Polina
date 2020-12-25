@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b82883fd-28b5-47f6-9e0b-4a7bd2a0dc32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +34,19 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m7N2aL6SIcOevaesGgcEZXHdBi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +56,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608837242630</updated>
       <workItem from="1608837270223" duration="566000" />
+      <workItem from="1608840464254" duration="25401000" />
     </task>
     <servers />
   </component>
@@ -47,10 +88,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="407" y="242" key="ComposerCompositePathDialog/0.0.1366.728@0.0.1366.728" timestamp="1608837744880" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1608837846601">
+    <state x="317" y="142" key="EditFileWatcherDialog" timestamp="1608840587272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608837846601" />
+    <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1608840587272" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1608920858665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608920858665" />
     <state x="439" y="209" key="SymfonyComponentCompositeDataDialog" timestamp="1608837761309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
